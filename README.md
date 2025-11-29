@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saisridhar-2001
-- 👀 I’m interested to learn Java, python, Sql, and In Future after few Years of Experience to IT and Software Industrys I like to be In any of the Domains of  data science or artificial intelligence or Cloud Computing.
-- 🌱 I’m currently learning ...Python(already reached medium lvl),java Basics,C programing,SQL
-- 💞️ I’m looking to work on ...Good MNCs or any IT/Softrware organisation with Good support of infrastructure and Good Career Growth. 
+- 👋 Hi, I’m Sai Sridhar Kolluri
+- 👀 I’m a Computer Science Graduate in B.Tech and highly interested and self-motivated to work in Big Data and Data Science 
+- 🌱 I’m currently working as an Associate Software engineer in a Startup in Vishakapatnam on the Finance and Banking Domain
+- 💞️ I’m looking to work on Good MNCs or product-based organisations, or startups with friendly and knowledge-sharing people  in  big data engineer or data scientist roles
 - 📫 How to reach me ...by my email saisridhar038@gmail.com 
 
 <!---
